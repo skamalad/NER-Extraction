@@ -1,0 +1,1365 @@
+[
+  {
+    "formatted_address": "West Nada, Fort, East Fort, Pazhavangadi, Thiruvananthapuram, Kerala 695023, India",
+    "name": "Sree Padmanabhaswamy Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "0445"
+          },
+          "open": {
+            "day": 0,
+            "time": "0330"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1115"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1220"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1810"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1915"
+          },
+          "open": {
+            "day": 0,
+            "time": "1845"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0445"
+          },
+          "open": {
+            "day": 1,
+            "time": "0330"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1115"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1220"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1810"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1915"
+          },
+          "open": {
+            "day": 1,
+            "time": "1845"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0445"
+          },
+          "open": {
+            "day": 2,
+            "time": "0330"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1115"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1220"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1810"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1915"
+          },
+          "open": {
+            "day": 2,
+            "time": "1845"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0445"
+          },
+          "open": {
+            "day": 3,
+            "time": "0330"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1115"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1220"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1810"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1915"
+          },
+          "open": {
+            "day": 3,
+            "time": "1845"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0445"
+          },
+          "open": {
+            "day": 4,
+            "time": "0330"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1115"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1220"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1810"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1915"
+          },
+          "open": {
+            "day": 4,
+            "time": "1845"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0445"
+          },
+          "open": {
+            "day": 5,
+            "time": "0330"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1115"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1220"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1810"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1915"
+          },
+          "open": {
+            "day": 5,
+            "time": "1845"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0445"
+          },
+          "open": {
+            "day": 6,
+            "time": "0330"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1115"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1220"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1810"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1915"
+          },
+          "open": {
+            "day": 6,
+            "time": "1845"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 3:30\u2009\u2013\u20094:45\u202fAM, 6:30\u2009\u2013\u20097:00\u202fAM, 8:30\u2009\u2013\u200910:00\u202fAM, 10:30\u2009\u2013\u200911:15\u202fAM, 12:00\u2009\u2013\u200912:20\u202fPM, 4:30\u2009\u2013\u20096:10\u202fPM, 6:45\u2009\u2013\u20097:15\u202fPM",
+        "Tuesday: 3:30\u2009\u2013\u20094:45\u202fAM, 6:30\u2009\u2013\u20097:00\u202fAM, 8:30\u2009\u2013\u200910:00\u202fAM, 10:30\u2009\u2013\u200911:15\u202fAM, 12:00\u2009\u2013\u200912:20\u202fPM, 4:30\u2009\u2013\u20096:10\u202fPM, 6:45\u2009\u2013\u20097:15\u202fPM",
+        "Wednesday: 3:30\u2009\u2013\u20094:45\u202fAM, 6:30\u2009\u2013\u20097:00\u202fAM, 8:30\u2009\u2013\u200910:00\u202fAM, 10:30\u2009\u2013\u200911:15\u202fAM, 12:00\u2009\u2013\u200912:20\u202fPM, 4:30\u2009\u2013\u20096:10\u202fPM, 6:45\u2009\u2013\u20097:15\u202fPM",
+        "Thursday: 3:30\u2009\u2013\u20094:45\u202fAM, 6:30\u2009\u2013\u20097:00\u202fAM, 8:30\u2009\u2013\u200910:00\u202fAM, 10:30\u2009\u2013\u200911:15\u202fAM, 12:00\u2009\u2013\u200912:20\u202fPM, 4:30\u2009\u2013\u20096:10\u202fPM, 6:45\u2009\u2013\u20097:15\u202fPM",
+        "Friday: 3:30\u2009\u2013\u20094:45\u202fAM, 6:30\u2009\u2013\u20097:00\u202fAM, 8:30\u2009\u2013\u200910:00\u202fAM, 10:30\u2009\u2013\u200911:15\u202fAM, 12:00\u2009\u2013\u200912:20\u202fPM, 4:30\u2009\u2013\u20096:10\u202fPM, 6:45\u2009\u2013\u20097:15\u202fPM",
+        "Saturday: 3:30\u2009\u2013\u20094:45\u202fAM, 6:30\u2009\u2013\u20097:00\u202fAM, 8:30\u2009\u2013\u200910:00\u202fAM, 10:30\u2009\u2013\u200911:15\u202fAM, 12:00\u2009\u2013\u200912:20\u202fPM, 4:30\u2009\u2013\u20096:10\u202fPM, 6:45\u2009\u2013\u20097:15\u202fPM",
+        "Sunday: 3:30\u2009\u2013\u20094:45\u202fAM, 6:30\u2009\u2013\u20097:00\u202fAM, 8:30\u2009\u2013\u200910:00\u202fAM, 10:30\u2009\u2013\u200911:15\u202fAM, 12:00\u2009\u2013\u200912:20\u202fPM, 4:30\u2009\u2013\u20096:10\u202fPM, 6:45\u2009\u2013\u20097:15\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 51431
+  },
+  {
+    "formatted_address": "G6F7+QRR, Swaraj Round N, Kuruppam, Thekkinkadu Maidan, Thrissur, Kerala 680001, India",
+    "name": "Sree Vadakkumnathan Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 4:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 4:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 4:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 4:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 4:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 4:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20868
+  },
+  {
+    "formatted_address": "Temple, East Nada, Guruvayur, Kerala 680101, India",
+    "name": "Guruvayur Shri Krishna Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 3:00\u202fAM\u2009\u2013\u20091:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 3:00\u202fAM\u2009\u2013\u20091:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 3:00\u202fAM\u2009\u2013\u20091:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 3:00\u202fAM\u2009\u2013\u20091:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 3:00\u202fAM\u2009\u2013\u20091:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 3:00\u202fAM\u2009\u2013\u20091:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 3:00\u202fAM\u2009\u2013\u20091:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 73664
+  },
+  {
+    "formatted_address": "P. O, Via, Ananthapura, Kumbla (Kumble), Kerala 671321, India",
+    "name": "Shree Ananthapadmanabha Swamy Lake Temple Kumbala Kasaragod",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:30\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:30\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:30\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:30\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:30\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:30\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:30\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5057
+  },
+  {
+    "formatted_address": "G3PP+RVP, Poovachal, Veeranakavu, Kerala 695575, India",
+    "name": "Padiyanoor Devi Temple",
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3
+  },
+  {
+    "formatted_address": "Station, near Angadipuram, Bhagavathi Padam, Angadipuram, Kerala 679321, India",
+    "name": "Sree Thirumandhamkunnu Bhagavathi Temple Angadippuram,",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 4:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 4:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 4:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 4:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 4:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 4:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6361
+  },
+  {
+    "formatted_address": "Melmuri, Kadampuzha, Kerala 676553, India",
+    "name": "Sri Kadampuzha Bhagavathy Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 4:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 4:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 4:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 4:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 4:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 4:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9010
+  }
+]

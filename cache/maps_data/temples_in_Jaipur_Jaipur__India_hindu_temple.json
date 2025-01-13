@@ -1,0 +1,1832 @@
+[
+  {
+    "formatted_address": "Jawahar Lal Nehru Marg, Tilak Nagar, Jaipur, Rajasthan 302022, India",
+    "name": "Birla Mandir, Jaipur",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29792
+  },
+  {
+    "formatted_address": "Vidyut Nagar, WP2R+V6Q, Vidyut Nagar, Vaishali Nagar, Chitrakoot, Jaipur, Rajasthan 302021, India",
+    "name": "Shree Akshardham Temple_jaipur",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00\u2009\u2013\u200911:00\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 8:00\u2009\u2013\u200911:00\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 8:00\u2009\u2013\u200911:00\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 8:00\u2009\u2013\u200911:00\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 8:00\u2009\u2013\u200911:00\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 8:00\u2009\u2013\u200911:00\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 8:00\u2009\u2013\u200911:00\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16038
+  },
+  {
+    "formatted_address": "Jawahar Lal Nehru Marg, near Birla Temple, Tilak Nagar, Jaipur, Rajasthan 302004, India",
+    "name": "Moti Dungri Ganesh Ji Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37300
+  },
+  {
+    "formatted_address": "Jai Niwas Garden, Jalebi Chowk, Gangori Bazaar, J.D.A. Market, Brahampuri, Jaipur, Rajasthan 302002, India",
+    "name": "THIKANA MANDIR SRI GOVINDDEVJI , JAIPUR",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 4.9,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16053
+  },
+  {
+    "formatted_address": "Sri Sri Giridhari Dauji Temple, Village Dholai, New Sanganer Road, opposite Vijay Path, Mansarovar, Jaipur, Rajasthan 302020, India",
+    "name": "ISKCON Temple, Jaipur",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4271
+  },
+  {
+    "formatted_address": "1729, 1729, Chandpole, Purani Basti, Jaipur, Rajasthan 302001, India",
+    "name": "Shri Radha Gopinath Ji Temple, Jaipur",
+    "rating": 4.9,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2306
+  },
+  {
+    "formatted_address": "XVQ2+JGC, 6, Sagar Rd, Devisinghpura, Amer, Jaipur, Rajasthan 302028, India",
+    "name": "Shri Jagat Shiromani ji Temple ( Meera mandir )",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 905
+  },
+  {
+    "formatted_address": "Laxman Dungri, WVM3+MG8, Hanuman Mandir Marg, Kunda, Lal Dungri, Jaipur, Rajasthan 302028, India",
+    "name": "Shree Khole Ke Hanuman Ji Temple_jaipur",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17992
+  },
+  {
+    "formatted_address": "WRWH+26M, Mount Rd, Near Gatore Ki Chhatriyan, Krishna Nagar, Brahampuri, Jaipur, Rajasthan 302002, India",
+    "name": "SHRI GARH GANESH Ji TEMPLE",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3228
+  },
+  {
+    "formatted_address": "WRGH+G62, Tulsi Marg, Badi Chaupar, Jaipur, Rajasthan 302002, India",
+    "name": "Shree Kalki Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u2009\u2013\u200911:00\u202fAM, 6:00\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 6:00\u2009\u2013\u200911:00\u202fAM, 6:00\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 6:00\u2009\u2013\u200911:00\u202fAM, 6:00\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 6:00\u2009\u2013\u200911:00\u202fAM, 6:00\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 6:00\u2009\u2013\u200911:00\u202fAM, 6:00\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 6:00\u2009\u2013\u200911:00\u202fAM, 6:00\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 6:00\u2009\u2013\u200911:00\u202fAM, 6:00\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 352
+  },
+  {
+    "formatted_address": "Galta Gate, Lal Dungri, Jaipur, Rajasthan 302003, India",
+    "name": "Sun Temple",
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 784
+  },
+  {
+    "formatted_address": "Shyam Dham Ashram, Shyam Mitra Mandal Nagar, B 19, Rd Number 5, Shyam Mitra Mandal Nagar, Murlipura, Jaipur, Rajasthan 302039, India",
+    "name": "Shri Shyam Temple",
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3133
+  },
+  {
+    "formatted_address": "WQ8J+M7W, NBC Rd, Kamala Nehru Nagar, Shanti Nagar, Hasanpura, Jaipur, Rajasthan 302006, India",
+    "name": "Shiv Mandir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13
+  },
+  {
+    "formatted_address": "SN-1663, Khatipura Rd, Kamala Nehru Nagar, Hasanpura, Jaipur, Rajasthan 302006, India",
+    "name": "Rojgareshwar Mahadev Mandir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 210
+  },
+  {
+    "formatted_address": "Galta Ji, Jaipur, Rajasthan 302027, India",
+    "name": "Shri Galta Peeth",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 742
+  },
+  {
+    "formatted_address": "Shop No. 182, WRHH+WFX Hanuman Temple, Hawa Mahal Rd, opposite Kale, Chandi Ki Taksal, J.D.A. Market, Brahampuri, Jaipur, Rajasthan 302002, India",
+    "name": "Kale Hanuman Ji Mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 665
+  },
+  {
+    "formatted_address": "VQP7+QRM, Bharat Ashram Marg, Katewa Nagar, Vivek Vihar, Shyam Nagar, Jaipur, Rajasthan 302019, India",
+    "name": "Shree Santoshi Mata Mandir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 153
+  },
+  {
+    "formatted_address": "XQ9V+6W3, Papad Ke Hanumanji Rd, Sector 8, Vishwakarma Industrial Area, Vidyadhar Nagar, Jaipur, Rajasthan 302038, India",
+    "name": "Papad wale Hanumanji",
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2047
+  },
+  {
+    "formatted_address": "WQ5G+3J4, Hatwara Rd, Shanti Nagar, Civil Lines, Jaipur, Rajasthan 302006, India",
+    "name": "Shri Chinta Haran hanuman temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21
+  },
+  {
+    "formatted_address": "WQCR+779, Railway Road, Barodia Scheme, Gopalbari, Jaipur, Rajasthan 302016, India",
+    "name": "Ganesh Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19
+  }
+]

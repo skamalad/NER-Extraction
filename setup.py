@@ -1,35 +1,16 @@
 from setuptools import setup, Extension
-from setuptools.command.build_ext import build_ext
+import numpy as np
 import sys
-import os
 
-class BuildExt(build_ext):
-    def build_extensions(self):
-        # Add compilation flags
-        if sys.platform == 'darwin':  # macOS
-            for ext in self.extensions:
-                ext.extra_compile_args = ['-O3', '-march=native']
-        elif sys.platform == 'linux':  # Linux
-            for ext in self.extensions:
-                ext.extra_compile_args = ['-O3', '-march=native']
-        build_ext.build_extensions(self)
+# Define the extension module
+module = Extension('libner',
+                  sources=['src/ner.c'],
+                  include_dirs=[np.get_include(), 'src', sys.prefix + '/include'],
+                  extra_compile_args=['-O0', '-g', '-Wall', '-fPIC'],  # Debug build
+                  extra_link_args=['-fPIC'])
 
-setup(
-    name='fast_ner',
-    version='0.1',
-    ext_modules=[
-        Extension(
-            'libner',
-            sources=['src/ner.c'],
-            include_dirs=['src'],
-        ),
-    ],
-    cmdclass={'build_ext': BuildExt},
-    packages=['fast_ner'],
-    package_dir={'fast_ner': 'src'},
-    install_requires=[
-        'numpy>=1.19.0',
-        'torch>=1.7.0',
-        'transformers>=4.0.0',
-    ],
-)
+# Run setup
+setup(name='libner',
+      version='1.0',
+      description='Fast NER implementation in C',
+      ext_modules=[module])

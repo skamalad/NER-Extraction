@@ -1,0 +1,1937 @@
+[
+  {
+    "formatted_address": "XH5F+PFR, Tippu Sultan Palace Rd, Chamrajpet, Bengaluru, Karnataka 560018, India",
+    "name": "Tipu Sultan's Summer Palace",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Saturday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Sunday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM"
+      ]
+    },
+    "rating": 3.9,
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 29650
+  },
+  {
+    "formatted_address": "Mavalli, Bengaluru, Karnataka 560004, India",
+    "name": "Lalbagh Botanical Garden",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 164151
+  },
+  {
+    "formatted_address": "Bengaluru, Karnataka, India",
+    "name": "Bengaluru Palace",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Thursday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Friday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+      ]
+    },
+    "rating": 4.2,
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 93307
+  },
+  {
+    "formatted_address": "1st floor, Snow city, Jayamahal Main Rd, opposite TV Tower, J.C.Nagar, Bengaluru, Karnataka 560006, India",
+    "name": "The MadLabs: Where Fun Meets Fascination",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1742
+  },
+  {
+    "formatted_address": "Kasturba Rd, Shanthala Nagar, Bengaluru, Karnataka 560001, India",
+    "name": "Namma Bengaluru Aquarium",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 3.8,
+    "types": [
+      "aquarium",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7982
+  },
+  {
+    "formatted_address": "5216, Kasturba Rd, Near Chinna Swamy Stadium, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+    "name": "Visvesvaraya Industrial & Technological Museum",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 9:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 9:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 9:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 9:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: 9:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+        "Sunday: 9:30\u202fAM\u2009\u2013\u20096:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15784
+  },
+  {
+    "formatted_address": "WHV9+3QM, Bull Temple Rd, Basavanagudi, Bengaluru, Karnataka 560019, India",
+    "name": "Bugle Rock Park",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24923
+  },
+  {
+    "formatted_address": "XHPR+4MV, Raj Bhavan Rd, Opposite to Jawahar Lal Nehru Planetarium, Vasanth Nagar, Bengaluru, Karnataka 560051, India",
+    "name": "Indira Gandhi Musical Fountain Park",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.1,
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10483
+  },
+  {
+    "formatted_address": "Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
+    "name": "Someshwara Swamy Temple, Halasuru",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:30\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10915
+  },
+  {
+    "formatted_address": "Sri T, Sankey Rd, High Grounds, Bengaluru, Karnataka 560001, India",
+    "name": "Jawaharlal Nehru Planetarium",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Wednesday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Thursday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Friday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4603
+  },
+  {
+    "formatted_address": "XH7G+49C, Krishna Rajendra Rd, New Tharagupet, Bengaluru, Karnataka 560002, India",
+    "name": "Bengaluru Fort",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1730"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Tuesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Wednesday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Thursday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Friday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Saturday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Sunday: 8:30\u202fAM\u2009\u2013\u20095:30\u202fPM"
+      ]
+    },
+    "rating": 4,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25240
+  },
+  {
+    "formatted_address": "Fun World Complex, 1st floor, Snow city, Jayamahal Main Rd, opposite TV Tower, J.C.Nagar, Bengaluru, Karnataka 560006, India",
+    "name": "Snow City Bengaluru",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.1,
+    "types": [
+      "amusement_park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20531
+  },
+  {
+    "formatted_address": "WHVP+F38, Kankanpalya Rd, 2nd Block, Mavalli, Bengaluru, Karnataka 560004, India",
+    "name": "Ashoka Pillar Monument",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5064
+  },
+  {
+    "formatted_address": "Band stand, Cubbon Park Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+    "name": "Band Stand",
+    "rating": 4.4,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 129
+  },
+  {
+    "formatted_address": "Seshadri Rd, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+    "name": "Freedom Park",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "0830"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0830"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0830"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0830"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0830"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0830"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0830"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u2009\u2013\u20098:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 5:00\u2009\u2013\u20098:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 5:00\u2009\u2013\u20098:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 5:00\u2009\u2013\u20098:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 5:00\u2009\u2013\u20098:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 5:00\u2009\u2013\u20098:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 5:00\u2009\u2013\u20098:30\u202fAM, 4:00\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.2,
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18544
+  },
+  {
+    "formatted_address": "1, Mahatma Gandhi Rd, Shanthala Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+    "name": "C.S.I St. Mark's Cathedral",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Wednesday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Thursday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Friday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Saturday: 9:30\u202fAM\u2009\u2013\u20091:00\u202fPM",
+        "Sunday: 9:30\u202fAM\u2009\u2013\u20091:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2880
+  },
+  {
+    "formatted_address": "Inside Bannerughatta Biological Park, QHWG+CHF, Bannerughatta, Bengaluru, Byrappanahalli, Karnataka 560083, India",
+    "name": "Butterfly Park",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Tuesday: Closed",
+        "Wednesday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Thursday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Friday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Saturday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Sunday: 9:30\u202fAM\u2009\u2013\u20095:00\u202fPM"
+      ]
+    },
+    "rating": 3.9,
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10317
+  },
+  {
+    "formatted_address": "WH6X+JFW \u090f\u0930\u093f\u0938 \u0917\u094d\u0932\u094b\u092c\u0932, 100 Feet Ring Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+    "name": "Mini Forest",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 5:30\u2009\u2013\u200910:00\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11067
+  },
+  {
+    "formatted_address": "Double Rd, Sampangi Rama Nagara, Bengaluru, Karnataka 560027, India",
+    "name": "Kreeda Junction",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12
+  },
+  {
+    "formatted_address": "LALBAGH PARK, Lal Bagh Rd, Mavalli, Bengaluru, Karnataka 560004, India",
+    "name": "Glass House, Lalbagh Botanical Garden",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1900"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2585
+  }
+]

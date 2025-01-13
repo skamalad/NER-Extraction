@@ -1,0 +1,127 @@
+[
+  {
+    "formatted_address": "WRFM+4HJ, opposite to Gateway of India, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India",
+    "name": "Chhatrapati Shivaji Maharaj Statue",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "tourist_attraction",
+      "landmark",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 433
+  },
+  {
+    "formatted_address": "2RVQ+VPQ, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",
+    "name": "Koli Statue",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.3,
+    "types": [
+      "landmark",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 179
+  },
+  {
+    "formatted_address": "2RVQ+VPQ, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",
+    "name": "Koli Statue",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.3,
+    "types": [
+      "landmark",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 179
+  },
+  {
+    "formatted_address": "2RVQ+VPQ, Mahim West, Mahim, Mumbai, Maharashtra 400016, India",
+    "name": "Koli Statue",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.3,
+    "types": [
+      "landmark",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 179
+  }
+]

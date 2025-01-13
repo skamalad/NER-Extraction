@@ -1,0 +1,2057 @@
+[
+  {
+    "formatted_address": "Lahori Tola, Varanasi, Uttar Pradesh 221001, India",
+    "name": "Shri Kashi Vishwanath Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 3:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 3:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 3:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 3:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 3:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Saturday: 3:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 3:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 99352
+  },
+  {
+    "formatted_address": "D 9, Annapurna Math Mandir, 1, Vishwanath Galli, Godowlia, Varanasi, Uttar Pradesh 221001, India",
+    "name": "Shree Annapurna Mandir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0400"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 4:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 4:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 4:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 4:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Saturday: 4:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 4:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1274
+  },
+  {
+    "formatted_address": "Saket Nagar Colony, Sankata Mochan Leprosy, Varanasi, Uttar Pradesh 221005, India",
+    "name": "Sankat Mochan Hanuman Temple, Varanasi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6762
+  },
+  {
+    "formatted_address": "Hindu University, Varanasi, Uttar Pradesh 221005, India",
+    "name": "Shri Vishwanath Temple, BHU Campus Varanasi",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1300"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 1:00\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2865
+  },
+  {
+    "formatted_address": "Sankat Mochan Rd, Durgakund Rd, near Jalan, Anandbagh, Bhelupur, Varanasi, Uttar Pradesh 221005, India",
+    "name": "Shri Satyanarayan Tulsi Manas Mandir Varanasi",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9052
+  },
+  {
+    "formatted_address": "82C7+VWW, Maha Mritunjay Rd, Bagh, Daranagar, Kotwali, Varanasi, Uttar Pradesh 221001, India",
+    "name": "Mrityunjay Mahadev Temple Varanasi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0400"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Tuesday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Wednesday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Thursday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Friday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Saturday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Sunday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 873
+  },
+  {
+    "formatted_address": "7XPX+FW7, Lanka Rd, Tulsi Manas Mandir Colony, Naria, Varanasi, Uttar Pradesh 221010, India",
+    "name": "Tridev Mandir Varanasi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1420
+  },
+  {
+    "formatted_address": "Ratneshwar Mahadev, Manikarnika Ghat, next to cremation Ground, Garwasitola, Ghasi Tola, Varanasi, Uttar Pradesh 221001, India",
+    "name": "Ratneshwar Mahadev Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 379
+  },
+  {
+    "formatted_address": "Shri Kashi Vishalakshi Mata Shaktipeeth Temple, Kashi Lahori Tola Near Ganpati Guest House Meer Ghat, Lahori Tola, Varanasi, Uttar Pradesh 221001, India",
+    "name": "Shri Vishalakshi Mata Shaktipeeth Temple, Kashi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2145"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2145"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 935
+  },
+  {
+    "formatted_address": "B27/80 Durgakund Road, Chowk, near Gurudham, Anandbagh, Bhelupur, Varanasi, Uttar Pradesh 221010, India",
+    "name": "ISKCON Temple Varanasi",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2015"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2015"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2015"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2015"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2015"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2015"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2015"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20098:15\u202fPM",
+        "Tuesday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20098:15\u202fPM",
+        "Wednesday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20098:15\u202fPM",
+        "Thursday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20098:15\u202fPM",
+        "Friday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20098:15\u202fPM",
+        "Saturday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20098:15\u202fPM",
+        "Sunday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20098:15\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2130
+  },
+  {
+    "formatted_address": "Dharm Sangh Bhawan, Durgakund, Jawahar Nagar Colony, Bhelupur, Varanasi, Uttar Pradesh 221010, India",
+    "name": "Shri Mani Mandir",
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 839
+  },
+  {
+    "formatted_address": "near Lalita Ghat, Lahori Tola, Varanasi, Uttar Pradesh 221001, India",
+    "name": "Nepali Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 825
+  },
+  {
+    "formatted_address": "Bagadha, Mandir, Near, Gauri Kedareshwar Ln, Bangali Tola, Varanasi, Uttar Pradesh 221001, India",
+    "name": "Shree Gauri Kedareshwar Mandir (Dwadash Jyotirling Kashi Khand)",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 185
+  },
+  {
+    "formatted_address": "8X3R+7XP, Rathyatra Kamachha Rd, Near Batuk Bhairav Mandir, Kamchchha, Bhelupur, Varanasi, Uttar Pradesh 221005, India",
+    "name": "Shri Kamakhya Devi Mandir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 234
+  },
+  {
+    "formatted_address": "8296+VJP, Lauhatia Rd, Maidagin, Lauhatia, Kabir Nagar Churaha, Jaitpura, Varanasi, Uttar Pradesh 221001, India",
+    "name": "Shri Bada Ganesh Mandir Varanasi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 385
+  },
+  {
+    "formatted_address": "8X3V+862, Rathyatra Kamachha Rd, near Kashirag Apartment, Maharana Pratap Colony, Gurubagh, Bhelupur, Varanasi, Uttar Pradesh 221010, India",
+    "name": "Shri Batuk Bhairav Temple and Shri Aadi Bhairav Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u200911:30\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u200911:30\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1296
+  },
+  {
+    "formatted_address": "C14/160-36-A, Durgakund, Naipokhari, Chetganj, Varanasi, Uttar Pradesh 221001, India",
+    "name": "Shree Durga Mata Mandir Durgakund Varanasi",
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 966
+  },
+  {
+    "formatted_address": "Pandeypur Rd, Golghar, Naibasti, Varanasi, Uttar Pradesh 221002, India",
+    "name": "Shree Kaal Bhairav Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 5:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24202
+  },
+  {
+    "formatted_address": "8286+526, Vindhyachal Gali, Rajadarwaja, Govindpura, Varanasi, Uttar Pradesh 221001, India",
+    "name": "Vindhyachal Mata Mandir, Kashipura, Varanasi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 8:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1601
+  },
+  {
+    "formatted_address": "Near Laxmikund Pokhora, Luxa, Sidhgiribagh, Varanasi, Uttar Pradesh 221010, India",
+    "name": "Prachin Laxmipati Sri Vishnu Mandir & Dev guru brihaspati- main temple in Varanasi",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 7:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 6:30\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28
+  }
+]

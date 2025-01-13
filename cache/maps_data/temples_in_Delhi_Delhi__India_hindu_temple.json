@@ -1,0 +1,2306 @@
+[
+  {
+    "formatted_address": "Mandir Marg, near Gole Market, Gole Market, New Delhi, Delhi 110001, India",
+    "name": "Shri Laxmi Narayan Temple (Birla Mandir)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1430"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30\u202fAM\u2009\u2013\u20091:30\u202fPM, 2:30\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 4:30\u202fAM\u2009\u2013\u20091:30\u202fPM, 2:30\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 4:30\u202fAM\u2009\u2013\u20091:30\u202fPM, 2:30\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 4:30\u202fAM\u2009\u2013\u20091:30\u202fPM, 2:30\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 4:30\u202fAM\u2009\u2013\u20091:30\u202fPM, 2:30\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 4:30\u202fAM\u2009\u2013\u20091:30\u202fPM, 2:30\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15568
+  },
+  {
+    "formatted_address": "Desh Bandhu Gupta Rd, Block E, Jhandewalan Extension, Paharganj, New Delhi, Delhi 110055, India",
+    "name": "Jhandewala Devi Mandir, Karol Bagh",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34379
+  },
+  {
+    "formatted_address": "Metro Station, Near, Ma Anandmayee Marg, NSIC Estate, Block 9, Kalkaji, New Delhi, Delhi 110019, India",
+    "name": "Shri Kalka Ji Temple, New Delhi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "0500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00\u2009\u2013\u20095:00\u202fAM, 6:30\u2009\u2013\u200911:30\u202fAM, 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Tuesday: 4:00\u2009\u2013\u20095:00\u202fAM, 6:30\u2009\u2013\u200911:30\u202fAM, 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Wednesday: 4:00\u2009\u2013\u20095:00\u202fAM, 6:30\u2009\u2013\u200911:30\u202fAM, 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Thursday: 4:00\u2009\u2013\u20095:00\u202fAM, 6:30\u2009\u2013\u200911:30\u202fAM, 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Friday: 4:00\u2009\u2013\u20095:00\u202fAM, 6:30\u2009\u2013\u200911:30\u202fAM, 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Saturday: 4:00\u2009\u2013\u20095:00\u202fAM, 6:30\u2009\u2013\u200911:30\u202fAM, 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Sunday: 4:00\u2009\u2013\u20095:00\u202fAM, 6:30\u2009\u2013\u200911:30\u202fAM, 12:00\u2009\u2013\u200911:30\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40058
+  },
+  {
+    "formatted_address": "Yogmaya maa mandir, Seth Sarai, Mehrauli, Delhi, New Delhi, Delhi 110030, India",
+    "name": "Shri Yogmaya Temple, Mehrauli",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1311
+  },
+  {
+    "formatted_address": "Palam Marg, Sector 7, Rama Krishna Puram, New Delhi, Delhi 110022, India",
+    "name": "Uttara Swamimalai Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1730"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u2009\u2013\u200911:00\u202fAM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 5:30\u2009\u2013\u200911:00\u202fAM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 5:30\u2009\u2013\u200911:00\u202fAM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 5:30\u2009\u2013\u200911:00\u202fAM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 5:30\u2009\u2013\u200911:00\u202fAM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 5:30\u2009\u2013\u200911:00\u202fAM, 5:30\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 5:30\u2009\u2013\u200911:00\u202fAM, 5:30\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5961
+  },
+  {
+    "formatted_address": "NH 24, Pramukh Swami Maharaj Marg, Pandav Nagar, New Delhi, Delhi, 110092, India",
+    "name": "Akshardham",
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 45001
+  },
+  {
+    "formatted_address": "Hanuman Mandir, 7B, Baba Kharak Singh Rd, Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001, India",
+    "name": "Pracheen Hanuman Mandir Dakshinmukh, Connaught Place",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: Open 24 hours",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: Open 24 hours",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18866
+  },
+  {
+    "formatted_address": "M64P+97H, Manohar Market, Hauz Qazi, Chandni Chowk, New Delhi, Delhi, 110006, India",
+    "name": "Gauri shankar temple",
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5896
+  },
+  {
+    "formatted_address": "Iskcon Temple Rd, Sant Nagar, East of Kailash, New Delhi, Delhi 110065, India",
+    "name": "ISKCON Temple, East of Kailash",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 30095
+  },
+  {
+    "formatted_address": "Shri Jagannath Marg Near Safdarjung Bus Terminal Tyagraj Stadium, Tyagraj Nagar, New Prem Nagar, BK Dutt Colony, New Delhi, Delhi 110003, India",
+    "name": "Shri Jagannath Mandir, Tyagraj Nagar - Oldest Jagannath Temple in Delhi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "lodging",
+      "health",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2556
+  },
+  {
+    "formatted_address": "G53J+64R, Main Chhatarpur Rd, Dr Ambedkar Colony, Chhatarpur, New Delhi, Delhi 110074, India",
+    "name": "Shri Aadya Katyayani Shaktipith Mandir, Delhi",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17994
+  },
+  {
+    "formatted_address": "Temple Complex, Sahakarita Marg, Pocket 3, Mayur Vihar, Delhi, 110091, India",
+    "name": "Uttara Guruvayurappan Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 5:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 5:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 5:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 5:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 5:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 5:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5729
+  },
+  {
+    "formatted_address": "17, Lodhi Rd, Gokalpuri, Institutional Area, Lodi Colony, New Delhi, Delhi 110003, India",
+    "name": "Shri Sai Baba Mandir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14854
+  },
+  {
+    "formatted_address": "Opposite Old, Mandir Marg, Vedanta Deshika, JNU Campus Rd, Ber Sarai, New Delhi, Delhi 110016, India",
+    "name": "Sri Vaikuntanathji Mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30\u2009\u2013\u200910:30\u202fAM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 6:30\u2009\u2013\u200910:30\u202fAM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 6:30\u2009\u2013\u200910:30\u202fAM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 6:30\u2009\u2013\u200910:30\u202fAM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 6:30\u2009\u2013\u200910:30\u202fAM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 6:30\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 6:30\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 346
+  },
+  {
+    "formatted_address": "J6W9+76F, Gali No 1, Ram Nagar Market, Prem Nagar, Arya Nagar, Paharganj, New Delhi, Delhi, 110055, India",
+    "name": "Shree Hanuman Ji Temple",
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 317
+  },
+  {
+    "formatted_address": "324, Saraswati Marg, Block 44Q, Beadonpura, Karol Bagh, New Delhi, Delhi, 110005, India",
+    "name": "Hanuman Mandir Karol bagh",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200911:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200911:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4159
+  },
+  {
+    "formatted_address": "Mandir Marg, near Birla Temple, Pocket H, Type 2, President's Estate, New Delhi, Delhi 110001, India",
+    "name": "Kali Bari Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0445"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0445"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0445"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0445"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0445"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0445"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0445"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:45\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 4:45\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 4:45\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 4:45\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 4:45\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 4:45\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 4:45\u202fAM\u2009\u2013\u200912:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3693
+  },
+  {
+    "formatted_address": "M67R+2XP, Salim Garh Fort, Nigambodh Ghat, New Delhi, Delhi, 110006, India",
+    "name": "Nili Chhatri Mandir - Shivji Temple, Old Delhi",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 495
+  },
+  {
+    "formatted_address": "Maharaja Agrasain, Road, Sector 3D, Rohini, New Delhi, Delhi, 110085, India",
+    "name": "Shiv Shakti Sanatan Mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 75
+  },
+  {
+    "formatted_address": "M4W8+W3Q, Outer Ring Rd, Mangalam Place, Rohini, Delhi, 110085, India",
+    "name": "Prachin Mahakali Mandir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2685
+  }
+]

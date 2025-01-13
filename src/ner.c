@@ -4,6 +4,12 @@
 #include <float.h>
 #include <stdio.h>
 
+#ifdef _WIN32
+#define EXPORT __declspec(dllexport)
+#else
+#define EXPORT __attribute__((visibility("default")))
+#endif
+
 #define MAX_SEQ_LEN 512
 #define MIN_SCORE -100.0f
 
@@ -14,185 +20,217 @@ typedef struct {
     float* emissions;    // [vocab_size x state_size] matrix
 } NERModel;
 
-// Forward declarations
-static void viterbi_decode(const NERModel* model, const int* tokens, int seq_len, int* tags);
-static float logsumexp(const float* arr, int n);
-static inline float max_array(const float* arr, int n, int* argmax);
+// Function declarations
+static void viterbi_decode(const NERModel* model, const int* tokens, int seq_len, int* tags, float* scores);
 
-void* init_model(int state_size, int vocab_size, float* transitions, float* emissions) {
-    printf("C: init_model called with state_size=%d, vocab_size=%d\n", state_size, vocab_size);
-    printf("C: transitions=%p, emissions=%p\n", (void*)transitions, (void*)emissions);
+EXPORT void* init_model(int state_size, int vocab_size, float* transitions, float* emissions) {
+    fprintf(stderr, "C [init_model]: Entry point. state_size=%d, vocab_size=%d\n", state_size, vocab_size);
+    fprintf(stderr, "C [init_model]: Pointers - transitions=%p, emissions=%p\n", 
+            (void*)transitions, (void*)emissions);
     
+    // Validate dimensions
+    if (state_size <= 0 || state_size > 100) {
+        fprintf(stderr, "C [init_model]: Invalid state_size: %d\n", state_size);
+        return NULL;
+    }
+    if (vocab_size <= 0 || vocab_size > 100000) {
+        fprintf(stderr, "C [init_model]: Invalid vocab_size: %d\n", vocab_size);
+        return NULL;
+    }
+    
+    // Validate pointers
+    if (!transitions) {
+        fprintf(stderr, "C [init_model]: transitions pointer is NULL\n");
+        return NULL;
+    }
+    if (!emissions) {
+        fprintf(stderr, "C [init_model]: emissions pointer is NULL\n");
+        return NULL;
+    }
+    
+    // Check for NaN or Inf in transitions
+    for (int i = 0; i < state_size * state_size; i++) {
+        if (isnan(transitions[i]) || isinf(transitions[i])) {
+            fprintf(stderr, "C [init_model]: Invalid value in transitions[%d]: %f\n", 
+                    i, transitions[i]);
+            return NULL;
+        }
+    }
+    
+    // Check for NaN or Inf in emissions
+    for (int i = 0; i < vocab_size * state_size; i++) {
+        if (isnan(emissions[i]) || isinf(emissions[i])) {
+            fprintf(stderr, "C [init_model]: Invalid value in emissions[%d]: %f\n", 
+                    i, emissions[i]);
+            return NULL;
+        }
+    }
+    
+    // Allocate model struct
+    fprintf(stderr, "C [init_model]: Allocating model struct\n");
     NERModel* model = (NERModel*)malloc(sizeof(NERModel));
-    if (!model) return NULL;
+    if (!model) {
+        fprintf(stderr, "C [init_model]: Failed to allocate model struct\n");
+        return NULL;
+    }
     
+    // Initialize dimensions
     model->state_size = state_size;
     model->vocab_size = vocab_size;
     
+    // Allocate and copy transitions
     size_t trans_size = state_size * state_size * sizeof(float);
-    printf("C: Allocating transitions of size %zu bytes (aligned to %zu)\n", 
-           trans_size, (trans_size + 15) & ~15);
-    model->transitions = (float*)aligned_alloc(16, (trans_size + 15) & ~15);
+    fprintf(stderr, "C [init_model]: Allocating transitions of size %zu bytes\n", trans_size);
+    model->transitions = (float*)malloc(trans_size);
     if (!model->transitions) {
+        fprintf(stderr, "C [init_model]: Failed to allocate transitions\n");
         free(model);
         return NULL;
     }
+    fprintf(stderr, "C [init_model]: Copying transitions data\n");
     memcpy(model->transitions, transitions, trans_size);
     
+    // Allocate and copy emissions
     size_t emis_size = vocab_size * state_size * sizeof(float);
-    printf("C: Allocating emissions of size %zu bytes (aligned to %zu)\n",
-           emis_size, (emis_size + 15) & ~15);
-    model->emissions = (float*)aligned_alloc(16, (emis_size + 15) & ~15);
+    fprintf(stderr, "C [init_model]: Allocating emissions of size %zu bytes\n", emis_size);
+    model->emissions = (float*)malloc(emis_size);
     if (!model->emissions) {
+        fprintf(stderr, "C [init_model]: Failed to allocate emissions\n");
         free(model->transitions);
         free(model);
         return NULL;
     }
+    fprintf(stderr, "C [init_model]: Copying emissions data\n");
     memcpy(model->emissions, emissions, emis_size);
     
-    printf("C: Model initialized successfully\n");
+    fprintf(stderr, "C [init_model]: Model initialized successfully\n");
     return model;
 }
 
-void free_model(void* model_ptr) {
-    if (!model_ptr) return;
+EXPORT void free_model(void* model_ptr) {
+    fprintf(stderr, "C [free_model]: Entry point with model_ptr=%p\n", model_ptr);
+    if (!model_ptr) {
+        fprintf(stderr, "C [free_model]: NULL pointer received\n");
+        return;
+    }
+    
     NERModel* model = (NERModel*)model_ptr;
+    fprintf(stderr, "C [free_model]: Freeing transitions at %p\n", (void*)model->transitions);
     free(model->transitions);
+    
+    fprintf(stderr, "C [free_model]: Freeing emissions at %p\n", (void*)model->emissions);
     free(model->emissions);
+    
+    fprintf(stderr, "C [free_model]: Freeing model struct\n");
     free(model);
+    fprintf(stderr, "C [free_model]: Complete\n");
 }
 
-void predict_tags(void* model_ptr, const int* tokens, int seq_len, int* tags) {
-    if (!model_ptr || !tokens || !tags || seq_len <= 0 || seq_len > MAX_SEQ_LEN) return;
+EXPORT void decode_sequence(void* model_ptr, const int* tokens, int seq_len, int* tags, float* scores) {
+    fprintf(stderr, "C [decode_sequence]: Entry point\n");
+    fprintf(stderr, "C [decode_sequence]: model_ptr=%p, tokens=%p, tags=%p, scores=%p, seq_len=%d\n",
+            model_ptr, (void*)tokens, (void*)tags, (void*)scores, seq_len);
+    
+    if (!model_ptr || !tokens || !tags || !scores) {
+        fprintf(stderr, "C [decode_sequence]: NULL pointer received\n");
+        return;
+    }
+    
+    if (seq_len <= 0 || seq_len > MAX_SEQ_LEN) {
+        fprintf(stderr, "C [decode_sequence]: Invalid sequence length: %d\n", seq_len);
+        return;
+    }
+    
     NERModel* model = (NERModel*)model_ptr;
-    viterbi_decode(model, tokens, seq_len, tags);
+    viterbi_decode(model, tokens, seq_len, tags, scores);
+    fprintf(stderr, "C [decode_sequence]: Complete\n");
 }
 
-static void viterbi_decode(const NERModel* model, const int* tokens, int seq_len, int* tags) {
-    const int S = model->state_size;
-    float dp[MAX_SEQ_LEN][9];  // Viterbi DP table [seq_len x state_size]
-    int prev[MAX_SEQ_LEN][9];  // Backpointers [seq_len x state_size]
+static void viterbi_decode(const NERModel* model, const int* tokens, int seq_len, int* tags, float* scores) {
+    fprintf(stderr, "C [viterbi_decode]: Entry point\n");
+    
+    const int state_size = model->state_size;
+    float* dp = (float*)malloc(seq_len * state_size * sizeof(float));
+    int* backpointers = (int*)malloc(seq_len * state_size * sizeof(int));
+    
+    if (!dp || !backpointers) {
+        fprintf(stderr, "C [viterbi_decode]: Memory allocation failed\n");
+        free(dp);
+        free(backpointers);
+        return;
+    }
     
     // Initialize first position
-    const float* emit_probs = model->emissions + tokens[0] * S;
-    for (int s = 0; s < S; s++) {
-        if (s == 0) {  // O tag
-            dp[0][s] = emit_probs[s];  // Use emission probability for O tag
-        } else if (s % 2 == 1) {  // B- tags
-            dp[0][s] = emit_probs[s];  // Use emission probability for B- tags
-        } else {  // I- tags
-            dp[0][s] = MIN_SCORE;  // Cannot start with I- tag
-        }
-        prev[0][s] = -1;
+    int token_id = tokens[0];
+    if (token_id < 0 || token_id >= model->vocab_size) {
+        fprintf(stderr, "C [viterbi_decode]: Invalid token_id: %d\n", token_id);
+        free(dp);
+        free(backpointers);
+        return;
+    }
+    
+    for (int j = 0; j < state_size; j++) {
+        dp[j] = model->emissions[token_id * state_size + j];
+        backpointers[j] = -1;
     }
     
     // Forward pass
     for (int t = 1; t < seq_len; t++) {
-        const float* emit_probs = model->emissions + tokens[t] * S;
-        int is_subword = (tokens[t] >= 1000 && tokens[t] <= 2000);  // Check for subword token
-        
-        for (int curr_s = 0; curr_s < S; curr_s++) {
-            float max_score = MIN_SCORE;
-            int best_prev = 0;
-            
-            // For each possible previous state
-            for (int prev_s = 0; prev_s < S; prev_s++) {
-                float trans_score = model->transitions[prev_s * S + curr_s];
-                float score = dp[t-1][prev_s] + trans_score;
-                
-                // Apply constraints based on tag type
-                if (curr_s % 2 == 0 && curr_s > 0) {  // I- tag
-                    // Can only transition to I-X from B-X or I-X of same type
-                    if (prev_s != curr_s && prev_s != curr_s - 1) {
-                        score = MIN_SCORE;
-                    }
-                }
-                
-                if (score > max_score) {
-                    max_score = score;
-                    best_prev = prev_s;
-                }
-            }
-            
-            // Add emission score
-            if (is_subword) {
-                // For subwords, strongly prefer continuing the previous tag
-                if (t > 0) {
-                    int prev_tag = tags[t-1];
-                    if (curr_s == prev_tag) {
-                        dp[t][curr_s] = max_score;  // Keep the tag from previous token
-                    } else {
-                        dp[t][curr_s] = MIN_SCORE;  // Discourage tag changes for subwords
-                    }
-                } else {
-                    dp[t][curr_s] = max_score + emit_probs[curr_s];
-                }
-            } else {
-                dp[t][curr_s] = max_score + emit_probs[curr_s];
-            }
-            
-            prev[t][curr_s] = best_prev;
+        token_id = tokens[t];
+        if (token_id < 0 || token_id >= model->vocab_size) {
+            fprintf(stderr, "C [viterbi_decode]: Invalid token_id: %d\n", token_id);
+            free(dp);
+            free(backpointers);
+            return;
         }
         
-        // Store the best tag for this position (needed for subword handling)
-        float best_score = dp[t][0];
-        tags[t] = 0;
-        for (int s = 1; s < S; s++) {
-            if (dp[t][s] > best_score) {
-                best_score = dp[t][s];
-                tags[t] = s;
+        float* prev_scores = dp + (t-1) * state_size;
+        float* curr_scores = dp + t * state_size;
+        int* curr_back = backpointers + t * state_size;
+        
+        for (int j = 0; j < state_size; j++) {
+            float best_score = MIN_SCORE;
+            int best_prev = -1;
+            
+            for (int i = 0; i < state_size; i++) {
+                float score = prev_scores[i] + 
+                            model->transitions[i * state_size + j] +
+                            model->emissions[token_id * state_size + j];
+                if (score > best_score) {
+                    best_score = score;
+                    best_prev = i;
+                }
             }
+            
+            curr_scores[j] = best_score;
+            curr_back[j] = best_prev;
         }
     }
     
-    // Backward pass to recover best path
-    int curr_tag = 0;
-    float max_score = dp[seq_len-1][0];
+    // Find best final state
+    float best_final_score = MIN_SCORE;
+    int best_final_state = 0;
+    float* final_scores = dp + (seq_len-1) * state_size;
     
-    // Find best final tag
-    for (int s = 1; s < S; s++) {
-        if (dp[seq_len-1][s] > max_score) {
-            max_score = dp[seq_len-1][s];
-            curr_tag = s;
+    for (int j = 0; j < state_size; j++) {
+        if (final_scores[j] > best_final_score) {
+            best_final_score = final_scores[j];
+            best_final_state = j;
         }
     }
     
-    // Trace back
-    tags[seq_len-1] = curr_tag;
+    // Backtrack
+    int curr_state = best_final_state;
+    tags[seq_len-1] = curr_state;
+    scores[seq_len-1] = best_final_score;
+    
     for (int t = seq_len-2; t >= 0; t--) {
-        curr_tag = prev[t+1][curr_tag];
-        tags[t] = curr_tag;
-    }
-}
-
-static float logsumexp(const float* arr, int n) {
-    if (n == 0) return MIN_SCORE;
-    if (n == 1) return arr[0];
-    
-    float max_val = arr[0];
-    for (int i = 1; i < n; i++) {
-        if (arr[i] > max_val) max_val = arr[i];
+        curr_state = backpointers[(t+1) * state_size + curr_state];
+        tags[t] = curr_state;
+        scores[t] = dp[t * state_size + curr_state];
     }
     
-    float sum = 0.0f;
-    for (int i = 0; i < n; i++) {
-        sum += expf(arr[i] - max_val);
-    }
-    
-    return max_val + logf(sum);
-}
-
-static inline float max_array(const float* arr, int n, int* argmax) {
-    float max_val = arr[0];
-    int max_idx = 0;
-    
-    for (int i = 1; i < n; i++) {
-        if (arr[i] > max_val) {
-            max_val = arr[i];
-            max_idx = i;
-        }
-    }
-    
-    if (argmax) *argmax = max_idx;
-    return max_val;
+    free(dp);
+    free(backpointers);
+    fprintf(stderr, "C [viterbi_decode]: Complete\n");
 }

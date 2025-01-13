@@ -1,0 +1,617 @@
+[
+  {
+    "formatted_address": "C-5, Western Express Hwy, Nargis Dutt Nagar, Nityanand Nagar, Reclamation, Bandra West, Mumbai, Maharashtra 400050, India",
+    "name": "Love Mumbai",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "tourist_attraction",
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7204
+  },
+  {
+    "formatted_address": "WRJC+3QJ, Nariman Point, Mumbai, Maharashtra 400021, India",
+    "name": "Marine Drive",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 63612
+  },
+  {
+    "formatted_address": "3VGH+93R, Lower Parel, Friends Colony, Hallow Pul, Kurla, Mumbai, Maharashtra 400070, India",
+    "name": "Mumbaicha Vighnaraj",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "formatted_address": "3VGH+93R, Lower Parel, Friends Colony, Hallow Pul, Kurla, Mumbai, Maharashtra 400070, India",
+    "name": "Marina drive",
+    "rating": 5,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3
+  },
+  {
+    "formatted_address": "4R3H+HXQ selfie point, Yamuna Nagar, Airport Area, Juhu, Mumbai, Maharashtra 400049, India",
+    "name": "Mumbai selfie point juhu",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 7:00\u2009\u2013\u200910:00\u202fAM"
+      ]
+    },
+    "rating": 4,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1037
+  },
+  {
+    "formatted_address": "Lower Parel, Friends Colony, Hallow Pul, Kurla, Mumbai, Maharashtra 440025, India",
+    "name": "Planet Leisure Tourism",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "formatted_address": "1, Frere Rd, Mumbai Port Trust, Mazgaon, Mumbai, Maharashtra 400001, India",
+    "name": "Fort George",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 87
+  },
+  {
+    "formatted_address": "31, Sewri Ford Road, MPT, Sewri, MPT, Sewri, Mumbai, Maharashtra 400015, India",
+    "name": "Shivadi fort",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1542
+  },
+  {
+    "formatted_address": "26, Sangeet Samrat Naushad Ali Rd, Pali Hill, Mumbai, Maharashtra 400050, India",
+    "name": "Bandra Sea View",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4064
+  },
+  {
+    "formatted_address": "6W53+4WV, Mumbai, Maharashtra 400101, India",
+    "name": "Kanheri Caves",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1730"
+          },
+          "open": {
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1730"
+          },
+          "open": {
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1730"
+          },
+          "open": {
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1730"
+          },
+          "open": {
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1730"
+          },
+          "open": {
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7716
+  },
+  {
+    "formatted_address": "Metro station, near Saki naka, Krishna Nagar, Ashok Nagar, Saki Naka, Mumbai, Maharashtra 400072, India",
+    "name": "Mumbai Bollywood Tours",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 5,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1
+  },
+  {
+    "formatted_address": "BJ Road, Mount Mary, Bandra West, Mumbai, Maharashtra 400050, India",
+    "name": "Band Stand",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 63576
+  },
+  {
+    "formatted_address": "2RGM+GMP, Dadar West, Mumbai, Maharashtra 400028, India",
+    "name": "Mata Ramabai Ambedkar Smruti Viewing Deck",
+    "rating": 4.5,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 462
+  },
+  {
+    "formatted_address": "3VGH+93R, Lower Parel, Friends Colony, Hallow Pul, Kurla, Mumbai, Maharashtra 400070, India",
+    "name": "ELEPHANTA FERRY POINT",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "formatted_address": "East, Rd No 1, Sion East, Sion, Mumbai, Maharashtra 400022, India",
+    "name": "Sion Fort",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.1,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3821
+  },
+  {
+    "formatted_address": "3VGH+93R, Lower Parel, Friends Colony, Hallow Pul, Kurla, Mumbai, Maharashtra 400070, India",
+    "name": "Traffic police Van",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "formatted_address": "2, JVPD Scheme, Juhu, Mumbai, Maharashtra 400049, India",
+    "name": "Silver Beach",
+    "rating": 4.4,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2825
+  },
+  {
+    "formatted_address": "2VW8+8WJ, Air Force Quarters, Sion East, Sion, Mumbai, Maharashtra 400022, India",
+    "name": "Sion Fort Trail",
+    "rating": 4.3,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20
+  },
+  {
+    "formatted_address": "3R3F+MQ5, Hill Rd, BJ Road Junction, Ranwar, Bandra West, Mumbai, Maharashtra 400050, India",
+    "name": "I Love Bandra",
+    "rating": 4.3,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20
+  },
+  {
+    "formatted_address": "7, Khan Abdul Gaffar Khan Road, Worli Sea Face, Worli, Mumbai, Maharashtra 400030, India",
+    "name": "INS Mumbai - Worli Sea Face",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40
+  }
+]

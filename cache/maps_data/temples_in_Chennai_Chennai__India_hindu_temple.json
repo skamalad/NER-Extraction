@@ -1,0 +1,326 @@
+[
+  {
+    "formatted_address": "Ambigapadeeswar temple, Kilambi, Tamil Nadu 631502, India",
+    "name": "Ekambaranathar Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20048
+  },
+  {
+    "formatted_address": "576X+8HG, Sannathi St, Gopal Nagar, Tiruvottiyur, Chennai, Tamil Nadu 600019, India",
+    "name": "Arulmigu Sri Vadivudai Amman sametha Sri Thiyagarajaswamy Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5653
+  }
+]

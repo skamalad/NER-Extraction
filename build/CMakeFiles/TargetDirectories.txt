@@ -1,0 +1,3 @@
+/Users/skamalad/Library/Mobile Documents/com~apple~CloudDocs/All Tutorials/Programming/C/NER Extraction/build/CMakeFiles/ner.dir
+/Users/skamalad/Library/Mobile Documents/com~apple~CloudDocs/All Tutorials/Programming/C/NER Extraction/build/CMakeFiles/edit_cache.dir
+/Users/skamalad/Library/Mobile Documents/com~apple~CloudDocs/All Tutorials/Programming/C/NER Extraction/build/CMakeFiles/rebuild_cache.dir

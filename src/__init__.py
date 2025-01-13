@@ -1,4 +1,4 @@
-from .fast_ner import FastNER, FastNERBenchmark, BenchmarkResults
+from .fast_ner import FastNER
 
 __version__ = "0.1.0"
-__all__ = ["FastNER", "FastNERBenchmark", "BenchmarkResults"]
+__all__ = ["FastNER"]

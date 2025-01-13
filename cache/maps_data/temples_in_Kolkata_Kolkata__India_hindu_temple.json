@@ -1,0 +1,2791 @@
+[
+  {
+    "formatted_address": "12/A, Kali Krishna Tagore St, near Ganesh talkies, Malapara, Santoshpur, Jorabagan, Kolkata, West Bengal 700006, India",
+    "name": "Shri Baikunthnath Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1615"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:15\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:15\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:15\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:15\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:15\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:15\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:15\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1352
+  },
+  {
+    "formatted_address": "48 B, Muktaram Babu St, Raja Katra, Jorasanko, Kolkata, West Bengal 700007, India",
+    "name": "Shree Siddhivinayak Devasthanam",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 6:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 6:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 6:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 6:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 6:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 838
+  },
+  {
+    "formatted_address": "Dakshineswar, Kolkata, West Bengal 700076, India",
+    "name": "Dakshineswar Kali Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1930"
+          },
+          "open": {
+            "day": 0,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "day": 1,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "day": 2,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "day": 3,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "day": 4,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "day": 5,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1930"
+          },
+          "open": {
+            "day": 6,
+            "time": "1530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:30\u2009\u2013\u20097:30\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:30\u2009\u2013\u20097:30\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:30\u2009\u2013\u20097:30\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:30\u2009\u2013\u20097:30\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:30\u2009\u2013\u20097:30\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:30\u2009\u2013\u20097:30\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:30\u2009\u2013\u20097:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 90780
+  },
+  {
+    "formatted_address": "29, Ashutosh Chowdary Ave, Ballygunge, Kolkata, West Bengal 700019, India",
+    "name": "Birla Mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 5:30\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15877
+  },
+  {
+    "formatted_address": "3C, Albert Road, Elgin, Kolkata, West Bengal 700017, India",
+    "name": "ISKCON Kolkata",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "0500"
+          },
+          "open": {
+            "day": 0,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0800"
+          },
+          "open": {
+            "day": 0,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1145"
+          },
+          "open": {
+            "day": 0,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1815"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "2015"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0500"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0800"
+          },
+          "open": {
+            "day": 1,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1145"
+          },
+          "open": {
+            "day": 1,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1815"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "2015"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0800"
+          },
+          "open": {
+            "day": 2,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1145"
+          },
+          "open": {
+            "day": 2,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1815"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "2015"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0800"
+          },
+          "open": {
+            "day": 3,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1145"
+          },
+          "open": {
+            "day": 3,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1815"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "2015"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0800"
+          },
+          "open": {
+            "day": 4,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1145"
+          },
+          "open": {
+            "day": 4,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1815"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "2015"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0800"
+          },
+          "open": {
+            "day": 5,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1145"
+          },
+          "open": {
+            "day": 5,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1815"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "2015"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0800"
+          },
+          "open": {
+            "day": 6,
+            "time": "0730"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1145"
+          },
+          "open": {
+            "day": 6,
+            "time": "0815"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1815"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "2015"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30\u2009\u2013\u20095:00\u202fAM, 7:30\u2009\u2013\u20098:00\u202fAM, 8:15\u2009\u2013\u200911:45\u202fAM, 12:00\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20096:00\u202fPM, 6:15\u2009\u2013\u20098:00\u202fPM, 8:15\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 4:30\u2009\u2013\u20095:00\u202fAM, 7:30\u2009\u2013\u20098:00\u202fAM, 8:15\u2009\u2013\u200911:45\u202fAM, 12:00\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20096:00\u202fPM, 6:15\u2009\u2013\u20098:00\u202fPM, 8:15\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 4:30\u2009\u2013\u20095:00\u202fAM, 7:30\u2009\u2013\u20098:00\u202fAM, 8:15\u2009\u2013\u200911:45\u202fAM, 12:00\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20096:00\u202fPM, 6:15\u2009\u2013\u20098:00\u202fPM, 8:15\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 4:30\u2009\u2013\u20095:00\u202fAM, 7:30\u2009\u2013\u20098:00\u202fAM, 8:15\u2009\u2013\u200911:45\u202fAM, 12:00\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20096:00\u202fPM, 6:15\u2009\u2013\u20098:00\u202fPM, 8:15\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 4:30\u2009\u2013\u20095:00\u202fAM, 7:30\u2009\u2013\u20098:00\u202fAM, 8:15\u2009\u2013\u200911:45\u202fAM, 12:00\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20096:00\u202fPM, 6:15\u2009\u2013\u20098:00\u202fPM, 8:15\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 4:30\u2009\u2013\u20095:00\u202fAM, 7:30\u2009\u2013\u20098:00\u202fAM, 8:15\u2009\u2013\u200911:45\u202fAM, 12:00\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20096:00\u202fPM, 6:15\u2009\u2013\u20098:00\u202fPM, 8:15\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 4:30\u2009\u2013\u20095:00\u202fAM, 7:30\u2009\u2013\u20098:00\u202fAM, 8:15\u2009\u2013\u200911:45\u202fAM, 12:00\u2009\u2013\u20091:00\u202fPM, 4:00\u2009\u2013\u20096:00\u202fPM, 6:15\u2009\u2013\u20098:00\u202fPM, 8:15\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2718
+  },
+  {
+    "formatted_address": "No. 186, Chittaranjan Ave, Simla, Machuabazar, Kolkata, West Bengal 700006, India",
+    "name": "Shri RamChandra Mandir",
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2300
+  },
+  {
+    "formatted_address": "Bidhan Sarani, Rajendra Deb Ln, College Street Market, College Street, Kolkata, West Bengal 700006, India",
+    "name": "Thanthania Kalibari",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 3:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5393
+  },
+  {
+    "formatted_address": "Sree Sree 108 Karunamoyee Kalimata Mandir, 107, 1, Southern Ave, Rabindra Sarobar, Ballygunge, Kolkata, West Bengal 700029, India",
+    "name": "Lake Kalibari",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 3:30\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3989
+  },
+  {
+    "formatted_address": "G9VV+Q26, 41, Matheswartala Road, Tangra, Kolkata, West Bengal 700046, India",
+    "name": "Chinese Kali Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 737
+  },
+  {
+    "formatted_address": "Strand Bank Rd, Ahiritola, Beniatola, Kolkata, West Bengal 700005, India",
+    "name": "Bhootnath Mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11985
+  },
+  {
+    "formatted_address": "Block A, 358, Lake Town Rd, Block A, Lake Town, Kolkata, West Bengal 700089, India",
+    "name": "Shree Bal Hanuman Mandir Lake Town Dham",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1375
+  },
+  {
+    "formatted_address": "Anami Sangha, Kalighat, Kolkata, West Bengal 700026, India",
+    "name": "Kalighat Mandir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1400"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1400"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1400"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1400"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1400"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1400"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1400"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54470
+  },
+  {
+    "formatted_address": "6/1B, Moira St, Elgin, Kolkata, West Bengal 700017, India",
+    "name": "Mira Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0830"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0830"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0830"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0830"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0830"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0830"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0930"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0830"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u20098:30\u202fAM, 9:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Tuesday: 12:00\u2009\u2013\u20098:30\u202fAM, 9:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Wednesday: 12:00\u2009\u2013\u20098:30\u202fAM, 9:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Thursday: 12:00\u2009\u2013\u20098:30\u202fAM, 9:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Friday: 12:00\u2009\u2013\u20098:30\u202fAM, 9:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Saturday: 12:00\u2009\u2013\u20098:30\u202fAM, 9:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Sunday: 12:00\u2009\u2013\u20098:30\u202fAM, 9:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 207
+  },
+  {
+    "formatted_address": "42, Sarat Bose Rd, Lansdown, Paddapukur, Bhowanipore, Kolkata, West Bengal 700020, India",
+    "name": "Shree Lakshmi Narayan Mandir, Paddapukur",
+    "rating": 4.5,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 628
+  },
+  {
+    "formatted_address": "32, Mahatma Gandhi Rd, Haridevpur, Paschim Putiary, Kolkata, West Bengal 700082, India",
+    "name": "Sri Sri Karunamoyee Kali Mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3434
+  },
+  {
+    "formatted_address": "153 2A, Acharya Prafulla Chandra Rd, Manicktala, Goa Bagan, Ward Number 15, Kolkata, West Bengal 700006, India",
+    "name": "SHREE SAI DHAM MANDIR",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 331
+  },
+  {
+    "formatted_address": "Bhukailash Rd, Kanchan Colony, Ekbalpur, Khidirpur, Kolkata, West Bengal 700023, India",
+    "name": "Shiva Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 969
+  },
+  {
+    "formatted_address": "7, Girish Ave, Sovabazar, Baghbazar, Kolkata, West Bengal 700003, India",
+    "name": "Ramakrishna Math (Balaram Temple)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 5:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 5:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 5:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 5:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 5:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 5:30\u2009\u2013\u200911:30\u202fAM, 4:00\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 836
+  },
+  {
+    "formatted_address": "H9R6+JHW, Garanhata St, Garanhatta, Beniatola, Kolkata, West Bengal 700006, India",
+    "name": "Jora Shib Shiva Temple - Garanhata Street",
+    "rating": 4.4,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47
+  },
+  {
+    "formatted_address": "Prem Chand Boral St, Bowbazar, Kolkata, West Bengal 700012, India",
+    "name": "Shiv Mandir",
+    "rating": 4.4,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 190
+  }
+]

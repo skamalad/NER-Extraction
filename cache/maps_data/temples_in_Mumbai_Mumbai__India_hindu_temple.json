@@ -1,0 +1,2789 @@
+[
+  {
+    "formatted_address": "SK Bole Rd, Prabhadevi, Mumbai, Maharashtra 400028, India",
+    "name": "Shree Siddhivinayak Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0315"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 3:15\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 5:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 5:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 5:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 5:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 5:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 112332
+  },
+  {
+    "formatted_address": "16, Babulnath Rd, Babulnath, Khareghat Colony, Gamdevi, Mumbai, Maharashtra 400004, India",
+    "name": "Shri Babulnath Temple, Mumbai",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1586
+  },
+  {
+    "formatted_address": "45/47, Dhanji St, Mumbadevi Area, Kalbadevi, Mumbai, Maharashtra 400003, India",
+    "name": "Shri Mumbadevi Temple, Mumbai",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2045"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2045"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2045"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2045"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2045"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2045"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2045"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+        "Tuesday: 6:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+        "Wednesday: 6:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+        "Thursday: 6:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+        "Friday: 6:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+        "Saturday: 6:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+        "Sunday: 6:30\u202fAM\u2009\u2013\u20098:45\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10024
+  },
+  {
+    "formatted_address": "ISKCON\u00ae, Hare Krishna Land, Sri Mukteshwar Devalaya Rd, Marg, Sainath Nagar, MHADA Colony, Juhu, Mumbai, Maharashtra 400049, India",
+    "name": "ISKCON Temple, Juhu, Mumbai",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1615"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1615"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:15\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:15\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:15\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:15\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:15\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:15\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 4:30\u202fAM\u2009\u2013\u20091:00\u202fPM, 4:15\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46453
+  },
+  {
+    "formatted_address": "Bhandarkar Road, Matunga East, 2VH3+2J3, Bhandarkar Rd, Brhmanwada, Matunga East, Mumbai, Maharashtra 400019, India",
+    "name": "The Asthika Samaj Kochu Guruvayoor Sree Ram Mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 5:00\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 5:00\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 5:00\u2009\u2013\u200911:00\u202fAM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2223
+  },
+  {
+    "formatted_address": "20, Jogeshwari - Vikhroli Link Rd, Panchkutir Ganesh Nagar, Powai, Mumbai, Maharashtra 400076, India",
+    "name": "Shree Suvarna Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2152
+  },
+  {
+    "formatted_address": "Bhulabhai Desai Marg, Mahalaxmi West, Cumballa Hill, Mumbai, Maharashtra 400026, India",
+    "name": "Shri Mahalakshmi Devi Temple, Mumbai",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34700
+  },
+  {
+    "formatted_address": "40, Banganga Cross Ln, Teen Batti, Malabar Hill, Mumbai, Maharashtra 400006, India",
+    "name": "Shri Walkeshwar Temple, Mumbai",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u20091:00\u202fPM, 5:00\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1037
+  },
+  {
+    "formatted_address": "Temple Complex, 71, Rd Number 2, Chembur West, Sector 1, Chedda Nagar, Mumbai, Maharashtra 400089, India",
+    "name": "Shri Thiruchembur Murugan Temple, Chembur West",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1100"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 6:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 6:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 6:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 6:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 6:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 6:00\u2009\u2013\u200911:00\u202fAM, 5:00\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3580
+  },
+  {
+    "formatted_address": "Mahatma Gandhi Rd, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400057, India",
+    "name": "Shri Parleshwar Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1530"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 5:30\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:30\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1732
+  },
+  {
+    "formatted_address": "Dadar East, Dadar, Mumbai, Maharashtra 400014, India",
+    "name": "BAPS Shri Swaminarayan Mandir, Mumbai",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8584
+  },
+  {
+    "formatted_address": "4R2W+8Q8, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400057, India",
+    "name": "Shree Mahalakshmi Devi Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 484
+  },
+  {
+    "formatted_address": "7, K. M. Munshi Marg, Girgaon, Babulnath, Chowpatty, Malabar Hill, Mumbai, Maharashtra 400007, India",
+    "name": "ISKCON Chowpatty (Sri Sri Radha Gopinath Mandir)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "0530"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0930"
+          },
+          "open": {
+            "day": 0,
+            "time": "0745"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2105"
+          },
+          "open": {
+            "day": 0,
+            "time": "2050"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0530"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0930"
+          },
+          "open": {
+            "day": 1,
+            "time": "0745"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1150"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1300"
+          },
+          "open": {
+            "day": 1,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1825"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2105"
+          },
+          "open": {
+            "day": 1,
+            "time": "2050"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0530"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0930"
+          },
+          "open": {
+            "day": 2,
+            "time": "0745"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1150"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1300"
+          },
+          "open": {
+            "day": 2,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1825"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2105"
+          },
+          "open": {
+            "day": 2,
+            "time": "2050"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0530"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0930"
+          },
+          "open": {
+            "day": 3,
+            "time": "0745"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1150"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1300"
+          },
+          "open": {
+            "day": 3,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1825"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2105"
+          },
+          "open": {
+            "day": 3,
+            "time": "2050"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0530"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0930"
+          },
+          "open": {
+            "day": 4,
+            "time": "0745"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1150"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1300"
+          },
+          "open": {
+            "day": 4,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1825"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2105"
+          },
+          "open": {
+            "day": 4,
+            "time": "2050"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0530"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0930"
+          },
+          "open": {
+            "day": 5,
+            "time": "0745"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1150"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1825"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2105"
+          },
+          "open": {
+            "day": 5,
+            "time": "2050"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0530"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0930"
+          },
+          "open": {
+            "day": 6,
+            "time": "0745"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1150"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1825"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2105"
+          },
+          "open": {
+            "day": 6,
+            "time": "2050"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u2009\u2013\u20095:30\u202fAM, 7:45\u2009\u2013\u20099:30\u202fAM, 10:00\u2009\u2013\u200911:50\u202fAM, 12:30\u2009\u2013\u20091:00\u202fPM, 4:30\u2009\u2013\u20096:25\u202fPM, 7:00\u2009\u2013\u20098:00\u202fPM, 8:50\u2009\u2013\u20099:05\u202fPM",
+        "Tuesday: 5:00\u2009\u2013\u20095:30\u202fAM, 7:45\u2009\u2013\u20099:30\u202fAM, 10:00\u2009\u2013\u200911:50\u202fAM, 12:30\u2009\u2013\u20091:00\u202fPM, 4:30\u2009\u2013\u20096:25\u202fPM, 7:00\u2009\u2013\u20098:00\u202fPM, 8:50\u2009\u2013\u20099:05\u202fPM",
+        "Wednesday: 5:00\u2009\u2013\u20095:30\u202fAM, 7:45\u2009\u2013\u20099:30\u202fAM, 10:00\u2009\u2013\u200911:50\u202fAM, 12:30\u2009\u2013\u20091:00\u202fPM, 4:30\u2009\u2013\u20096:25\u202fPM, 7:00\u2009\u2013\u20098:00\u202fPM, 8:50\u2009\u2013\u20099:05\u202fPM",
+        "Thursday: 5:00\u2009\u2013\u20095:30\u202fAM, 7:45\u2009\u2013\u20099:30\u202fAM, 10:00\u2009\u2013\u200911:50\u202fAM, 12:30\u2009\u2013\u20091:00\u202fPM, 4:30\u2009\u2013\u20096:25\u202fPM, 7:00\u2009\u2013\u20098:00\u202fPM, 8:50\u2009\u2013\u20099:05\u202fPM",
+        "Friday: 5:00\u2009\u2013\u20095:30\u202fAM, 7:45\u2009\u2013\u20099:30\u202fAM, 10:00\u2009\u2013\u200911:50\u202fAM, 12:30\u2009\u2013\u20091:00\u202fPM, 4:30\u2009\u2013\u20096:25\u202fPM, 7:00\u2009\u2013\u20098:00\u202fPM, 8:50\u2009\u2013\u20099:05\u202fPM",
+        "Saturday: 5:00\u2009\u2013\u20095:30\u202fAM, 7:45\u2009\u2013\u20099:30\u202fAM, 10:00\u2009\u2013\u200911:50\u202fAM, 12:30\u2009\u2013\u20091:00\u202fPM, 4:30\u2009\u2013\u20096:25\u202fPM, 7:00\u2009\u2013\u20098:00\u202fPM, 8:50\u2009\u2013\u20099:05\u202fPM",
+        "Sunday: 5:00\u2009\u2013\u20095:30\u202fAM, 7:45\u2009\u2013\u20099:30\u202fAM, 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM, 8:50\u2009\u2013\u20099:05\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7364
+  },
+  {
+    "formatted_address": "SH 6 INDUS CHS, near JAGRUTI METRO STATION, Bhatwadi, Ghatkopar West, Mumbai, Maharashtra 400084, India",
+    "name": "Shri Siddhiganesh Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1649
+  },
+  {
+    "formatted_address": "4V5C+8C9, Marol Pipeline Rd, Sai Nagar, Ashok Nagar, Andheri East, Mumbai, Maharashtra 400059, India",
+    "name": "Shree Siddhivinayaka Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 280
+  },
+  {
+    "formatted_address": "2R7G+MXW, Murari Ghag Marg, Century Bazaar, Prabhadevi, Mumbai, Maharashtra 400025, India",
+    "name": "Shri Prabhadevi Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:00\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:00\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:00\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:00\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 3:00\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1595
+  },
+  {
+    "formatted_address": "Bhulabhai Desai Marg, Mahalaxmi West, Breach Candy, Mahalakshmi, Mumbai, Maharashtra 400026, India",
+    "name": "Shree Swaminarayan Mandir, Mahalaxmi Mumbai",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 6:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 6:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 6:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 6:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 6:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 6:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 582
+  },
+  {
+    "formatted_address": "Gauri Shankar Cooperative Housing Society, \u0905\u0932\u0940 \u092f\u093e\u0935\u0930 \u091c\u0902\u0917, \u0915\u0941\u0930\u094d\u0932\u093e \u0935\u0947\u0938\u094d\u091f, \u092e\u0941\u0902\u092c\u0908, \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 400070, India",
+    "name": "Gauri Shankar Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1159"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1159"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1159"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1159"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1159"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1159"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1159"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u2009\u2013\u200911:59\u202fAM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 6:00\u2009\u2013\u200911:59\u202fAM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 6:00\u2009\u2013\u200911:59\u202fAM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 6:00\u2009\u2013\u200911:59\u202fAM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 6:00\u2009\u2013\u200911:59\u202fAM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 6:00\u2009\u2013\u200911:59\u202fAM, 5:00\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 6:00\u2009\u2013\u200911:59\u202fAM, 5:00\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 157
+  },
+  {
+    "formatted_address": "Shree Jagannath Mandir, Gokuldham Society, Satya Nagar, Sakinaka, Andheri East, Mumbai, Maharashtra 400072, India",
+    "name": "Shree Jagannath Mandir.",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 529
+  },
+  {
+    "formatted_address": "3VCG+2WH, New Mill Rd, BMC Colony, Kurla West, Kurla, Mumbai, Maharashtra 400070, India",
+    "name": "Mahadev Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2305"
+          },
+          "open": {
+            "day": 0,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2305"
+          },
+          "open": {
+            "day": 1,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2305"
+          },
+          "open": {
+            "day": 4,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2305"
+          },
+          "open": {
+            "day": 5,
+            "time": "1230"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:30\u2009\u2013\u200911:05\u202fPM",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 12:30\u2009\u2013\u200911:05\u202fPM",
+        "Friday: 12:30\u2009\u2013\u200911:05\u202fPM",
+        "Saturday: Closed",
+        "Sunday: 12:30\u2009\u2013\u200911:05\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "formatted_address": "15/1, Cubbon Rd, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+    "name": "Minsk Square",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "landmark",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 378
+  },
+  {
+    "formatted_address": "15/1, Cubbon Rd, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+    "name": "Minsk Square",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "landmark",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 378
+  },
+  {
+    "formatted_address": "15/1, Cubbon Rd, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+    "name": "Minsk Square",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.4,
+    "types": [
+      "landmark",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 378
+  }
+]

@@ -1,0 +1,1665 @@
+[
+  {
+    "formatted_address": "Daresi Rd, Rawatpara, Sheb Bazar, Mantola, Agra, Uttar Pradesh 282003, India",
+    "name": "Shri Mankameshwar Temple, Agra",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0515"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "day": 1,
+            "time": "0515"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0515"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0515"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0515"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0515"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0515"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:15\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 5:15\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 5:15\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 5:15\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 5:15\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 5:15\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 5:15\u202fAM\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6217
+  },
+  {
+    "formatted_address": "Mahatma Gandhi Rd, Panchkuian, Rakabganj, Agra, Uttar Pradesh 282001, India",
+    "name": "Rawli Temple Agra",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0400"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 4:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 4:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 464
+  },
+  {
+    "formatted_address": "28/256, Pathwari, Belanganj, Civil Lines, Agra, Uttar Pradesh 282001, India",
+    "name": "Shri Khatu Shyam Temple, Agra",
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 449
+  },
+  {
+    "formatted_address": "Sai Mandir, Hastings Rd, Near Bijli Ghar, Baluganj, Rakabganj, Agra, Uttar Pradesh 282001, India",
+    "name": "Sai Temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 154
+  },
+  {
+    "formatted_address": "5XFG+658, Prithvinath Mandir, Ashok Vihar, Kedar Nagar, Shahganj, Agra, Uttar Pradesh 282010, India",
+    "name": "Prithvi Nath Mahadev Temple",
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 120
+  },
+  {
+    "formatted_address": "Sikandra, Agra, Bainpur Mustkil, Uttar Pradesh 282007, India",
+    "name": "Kailash mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 6:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 6:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 6:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 6:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 6:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 6:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 676
+  },
+  {
+    "formatted_address": "Balkeshwar Ghat Wasan, 62CJ+567, Kailash Nagar, Rajwara, Kamla Nagar, Agra, Uttar Pradesh 282004, India",
+    "name": "Balkeshwar Mahadev Mandir",
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1260
+  },
+  {
+    "formatted_address": "1, Jawhar Puram, Deoretha, Navneet Nagar, Shahganj, Agra, Uttar Pradesh 282010, India",
+    "name": "Shiva Temple",
+    "rating": 4.9,
+    "types": [
+      "hindu_temple",
+      "tourist_attraction",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16
+  },
+  {
+    "formatted_address": "Munro Road, Near Targhar, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001, India",
+    "name": "Shri Tirupati Balaji Mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1200"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u200912:00\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 218
+  },
+  {
+    "formatted_address": "M- 8, Maharaja Agrasen Marg, Rashmi Nagar, Kaveri Kunj, Kamla Nagar, Agra, Uttar Pradesh 282005, India",
+    "name": "Shri Shri Jagannath Mandir (ISKCON Agra)",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 4:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 4:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 4:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 4:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 4:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 4:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 4:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 266
+  },
+  {
+    "formatted_address": "42VV+H75, Anantpuram, Indrapuram, Kaveri Vihar Phase II, Shamsabad, Agra, Uttar Pradesh 282001, India",
+    "name": "Rajeshwar temple",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 71
+  },
+  {
+    "formatted_address": "Radha Vallabh Mandir Rawat Pada, 16/28, near Mankameshwar Mandir, Daresi, Sita Ram Colony, Pipal Mandi, Mantola, Agra, Uttar Pradesh 282003, India",
+    "name": "Shri Radha Vallabh Mandir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13
+  },
+  {
+    "formatted_address": "road, Jeoni Mandi, Civil Lines, Agra, Uttar Pradesh 282004, India",
+    "name": "Shri Khatu Shyam Ji Mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "0630"
+          },
+          "open": {
+            "day": 0,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "1230"
+          },
+          "open": {
+            "day": 0,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "0630"
+          },
+          "open": {
+            "day": 1,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1230"
+          },
+          "open": {
+            "day": 1,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0630"
+          },
+          "open": {
+            "day": 2,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1230"
+          },
+          "open": {
+            "day": 2,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0630"
+          },
+          "open": {
+            "day": 3,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1230"
+          },
+          "open": {
+            "day": 3,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0630"
+          },
+          "open": {
+            "day": 4,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1230"
+          },
+          "open": {
+            "day": 4,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0630"
+          },
+          "open": {
+            "day": 5,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1230"
+          },
+          "open": {
+            "day": 5,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0630"
+          },
+          "open": {
+            "day": 6,
+            "time": "0530"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1230"
+          },
+          "open": {
+            "day": 6,
+            "time": "0830"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:30\u2009\u2013\u20096:30\u202fAM, 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 5:30\u2009\u2013\u20096:30\u202fAM, 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 5:30\u2009\u2013\u20096:30\u202fAM, 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 5:30\u2009\u2013\u20096:30\u202fAM, 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 5:30\u2009\u2013\u20096:30\u202fAM, 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 5:30\u2009\u2013\u20096:30\u202fAM, 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 5:30\u2009\u2013\u20096:30\u202fAM, 8:30\u202fAM\u2009\u2013\u200912:30\u202fPM, 4:30\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.8,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1893
+  },
+  {
+    "formatted_address": "HIG Flat, 19, Bypass Rd, Langre Ki Chowki Chouraha, Langre Ki Chowki, Civil Lines, Agra, Uttar Pradesh 282004, India",
+    "name": "Langde Ki Chowki Prachin Hanuman Mandir Agra",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 400
+  },
+  {
+    "formatted_address": "3/285, Roshan Mohalla, Maulana Azad Road, Jain Mandir Road, Subash Bazar, Kinari Bazar, Hing ki Mandi, Mantola, Agra, Uttar Pradesh 282003, India",
+    "name": "Chintamani Parshwanath Swetamber Jain Temple - Agra",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:00\u2009\u2013\u200911:30\u202fAM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 6:00\u2009\u2013\u200911:30\u202fAM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 6:00\u2009\u2013\u200911:30\u202fAM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 6:00\u2009\u2013\u200911:30\u202fAM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 6:00\u2009\u2013\u200911:30\u202fAM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 6:00\u2009\u2013\u200911:30\u202fAM, 4:30\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 6:00\u2009\u2013\u200911:30\u202fAM, 4:30\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 4.5,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 85
+  },
+  {
+    "formatted_address": "Kali Bari Road, 52Q5+VWJ, MM Darwaza Rd, Garhia Azam Khan, Crossing, Agra, Uttar Pradesh 282003, India",
+    "name": "Kalibari Temple",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0630"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "0430"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 6:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 6:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 6:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 6:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 6:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 4:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 6:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 4.7,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 153
+  },
+  {
+    "formatted_address": "52H5+WFF, Sadar Batti Rd, Dhawlikar, Rakabganj, Agra, Uttar Pradesh 282003, India",
+    "name": "DAUJI MANDIR",
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 65
+  },
+  {
+    "formatted_address": "6264+HWX, Nagla Padi, Indra Puri, DayalBagh, Agra, Uttar Pradesh 282005, India",
+    "name": "Radha-Krishna Temple",
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20
+  },
+  {
+    "formatted_address": "27/76, North Vijay Nagar Colony, Vijayanagar Colony, Civil Lines, Agra, Uttar Pradesh 282004, India",
+    "name": "Shree Radha Krishna Mandir",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "day": 5,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "day": 6,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    "rating": 4.6,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 111
+  },
+  {
+    "formatted_address": "6/331/4, near Maha Laxmi Cinema Crossing, Pathwari, Belanganj, Civil Lines, Agra, Uttar Pradesh 282004, India",
+    "name": "Pracheen Maa Pathwari Devi Mandir",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0500"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0500"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 5:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    "rating": 4.2,
+    "types": [
+      "hindu_temple",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 64
+  }
+]
